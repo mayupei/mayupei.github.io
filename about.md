@@ -4,6 +4,6 @@ permalink: /
 author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to **Nerd on Edge**. I’m Yupei Ma (马雨珮), a senior data scientist at Analysis Group in Canada. I received a PhD in Economics from the University of British Columbia in 2025 and a BA from Renmin University of China in 2019.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Outside work, I explore figure-skating analytics—bringing together machine learning, statistical modelling, and econometric methods to study performance, judging, and the broader dynamics of the sport. This site collects notes, projects, and reproducible code.
