@@ -4,4 +4,4 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.layout--single .page__content { font-size: 0.8rem; line-height: 0.4; }
+.layout--single .page__content { font-size: 0.8rem; line-height: 1.2; }
