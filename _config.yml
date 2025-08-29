@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Yupei Ma"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot_Ma, Yupei.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
