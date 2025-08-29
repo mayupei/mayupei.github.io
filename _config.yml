@@ -67,9 +67,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mayupei"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:mayupei39@gmail.com"
 
 
 defaults:
