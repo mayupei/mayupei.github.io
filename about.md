@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <p style="font-size: 18px;">
-Welcome to **Nerd on Edge**. I’m Yupei Ma (马雨珮), a senior data scientist at Analysis Group in Canada. I received a PhD in Economics from the University of British Columbia in 2025 and a BA from Renmin University of China in 2019.
+Welcome to <strong>Nerd on Edge</strong>. I’m Yupei Ma (马雨珮), a senior data scientist at Analysis Group in Canada. I received a PhD in Economics from the University of British Columbia in 2025 and a BA from Renmin University of China in 2019.
 </p>
 
 <p style="font-size: 18px;">
